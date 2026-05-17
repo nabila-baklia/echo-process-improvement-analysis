@@ -131,7 +131,5 @@ A separate analysis of the department's billing data revealed the full financial
 ## Team
 
 Zanib Hasson · Nabila Baklia · Umar Arif · Ali Choudhry
-Faculty Advisor: Prof. Chandrasekaran Ranga · TA: Sonali Bondre
-
-*Cook County Health Mentors: Dr. Doukky, Mr. Mazin, Mrs. Johnson, Dr. Outler, Mrs. Amanda Grasso, Mrs. Andrea Gibson, Dr. Mikaitis*
+Faculty Advisor: Prof. Chandrasekaran Ranga 
 

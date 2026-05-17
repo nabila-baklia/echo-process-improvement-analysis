@@ -130,6 +130,6 @@ A separate analysis of the department's billing data revealed the full financial
 
 ## Team
 
-Zanib Hasson · Nabila Baklia · Umar Arif · Ali Choudhry
-Faculty Advisor: Prof. Chandrasekaran Ranga 
+Zanib H · Nabila Baklia · Umar A
+Faculty Advisor: Prof. Ranga Chandrasekaran
 

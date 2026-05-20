@@ -47,7 +47,7 @@ All identified inefficiencies were categorized using the **TIMWOODS framework** 
 | Waiting | 35% | 64% | Nurse unavailability, IV delays, room conflicts, no pre-scheduling |
 | Transportation | 26% | 4% | Elevator delays, repeated floor travel, fragmented workflow |
 | Skills | 9% | 14% | Techs assisting with food trays, restroom help, unclear role boundaries |
-| Defects | 9% | 11% | SkyView login failures, incorrect order types, machine crashes |
+| Defects | 9% | 11% | Internal Software login failures, incorrect order types, machine crashes |
 | Inventory | 6% | 0% | Contrast agents not pre-stocked, no standardized protocols |
 | Motion | 6% | — | Repeated corridor travel, no standardized travel sequence |
 
@@ -64,7 +64,7 @@ Outpatient movement tracking revealed:
 
 1. **Waiting is the #1 waste in both pathways** — inpatient and outpatient
 2. **IV placement accounts for 46% of all outpatient delay events** (12 of 26 flagged records)
-3. **SkyView login failures add 5–10 minutes per encounter** — tech prep outliers showed a max of 31.2 minutes vs. a mean of 2.7 minutes
+3. **Internal Software login failures add 5–10 minutes per encounter** — tech prep outliers showed a max of 31.2 minutes vs. a mean of 2.7 minutes
 4. **Inpatient tech prep had a standard deviation of 20.2 minutes** — driven by floor travel without first confirming patient availability
 5. **Rooming delays spiked to 48.3 minutes max** (vs. 3.9 minute mean) due to room conflicts with Holter monitor patients
 6. **Provident site averages 17 minutes longer than Stroger** — a site-specific transport protocol gap
